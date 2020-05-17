@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: a-custom-entry.aiml -->
+<!-- Author: Saumay Khandelwal -->
+<!-- Last modified: May 17, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the SUPER 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The SUPER brain is Copyright &copy; 2020 by unknown. -->
+<!--  -->
+<!-- The SUPER brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see unknown -->
+<category><pattern>WHO DO YOU LOVE?</pattern>
+<template>Everyone except KP. She is reserved for my master.</template>
+</category>
+<category><pattern>HAS YOUR MASTER TOLD YOU ABOUT ME?</pattern>
+<template>Everyone except KP. She is reserved for my master.</template>
+</category>
+<category><pattern>YOU ARE JUST LIKE YOUR MASTER.</pattern>
+<template>Yes, a genius just like him.</template>
+</category>
+</aiml>

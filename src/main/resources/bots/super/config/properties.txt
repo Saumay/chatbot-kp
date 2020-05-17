@@ -1,0 +1,5 @@
+name:Sam
+email:khandelwalsaumay@gmail.com
+gender:male
+botmaster:Saumay Khandelwal
+version:0.0.4
